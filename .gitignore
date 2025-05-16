@@ -5,6 +5,7 @@
 # Object files
 *.o
 *.obj
+opencv.zip
 
 # Libraries
 *.lib
