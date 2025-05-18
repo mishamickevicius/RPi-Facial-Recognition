@@ -3,6 +3,6 @@
 
 #include <opencv2/core/mat.hpp>
 
-int isFaceDetected();
+bool isFaceDetected(cv::Mat& image);
 
 #endif
