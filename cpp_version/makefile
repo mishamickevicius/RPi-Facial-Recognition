@@ -5,7 +5,7 @@ CXX = g++
 CXXFLAGS = -Wall -std=c++17
 
 # Use pkg-config to get OpenCV compile and link flags
-OPENCV_FLAGS = `pkg-config --cflags --libs opencv`
+OPENCV_FLAGS = `pkg-config --cflags --libs opencv4`
 
 # Source files
 SRC = main.cpp faceDetect.cpp
