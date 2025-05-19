@@ -2,6 +2,9 @@
 *.exe
 *.out
 
+## Executable files
+cpp_version/test_detect
+
 # Object files
 *.o
 *.obj
@@ -57,3 +60,6 @@ CTestTestfile.cmake
 # Other
 *.log
 *.stackdump
+*.png
+*.jpg
+*.jpeg
